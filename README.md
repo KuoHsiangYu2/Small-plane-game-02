@@ -1,3 +1,12 @@
+# Small-plane-game-02
+
+<p>這份程式原始碼出處來自wblearn</p>
+<br />
+<p>附上原始連結<a href="https://github.com/wblearn/Small-plane-game" target="_blank">Small-plane-game</a></p>
+<br />
+<p>本人做的改動只有改寫讀取圖片資源的程式、加上 run.bat open.bat 等 Windows電腦用的 Script執行檔。</p>
+<br />
+
 ![](http://wblearn.github.io/img/in-post/public/2556999-1a2ad6a9a6690588.gif)
 
 ## 写在前面
@@ -727,3 +736,4 @@ public class ShootGame extends JPanel {  
 ------2016/12/25更新---------------
 
 上面的小飞机游戏下载地址失效了，最近开通了[我的github博客](https://wblearn.github.io/)，欢迎大家测试，同时方便以后托管一些项目及资源。下载地址：[Java打飞机小游戏（附完整源码）](https://github.com/wblearn/Small-plane-game)
+
