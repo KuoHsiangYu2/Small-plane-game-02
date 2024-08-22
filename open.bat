@@ -1,0 +1,9 @@
+@echo off
+color f0
+color 70
+color 07
+chcp 65001
+chcp 950
+chcp 65001
+chcp 950
+cmd /k
