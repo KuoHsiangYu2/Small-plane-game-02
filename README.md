@@ -1,11 +1,8 @@
 # Small-plane-game-02
 
 <p>這份程式原始碼出處來自wblearn</p>
-<br />
-<p>附上原始連結<a href="https://github.com/wblearn/Small-plane-game" target="_blank">Small-plane-game</a></p>
-<br />
+<p>附上原始連結&nbsp;<a href="https://github.com/wblearn/Small-plane-game" target="_blank">Small-plane-game</a></p>
 <p>本人做的改動只有改寫讀取圖片資源的程式、加上 run.bat open.bat 等 Windows電腦用的 Script執行檔。</p>
-<br />
 
 ![](http://wblearn.github.io/img/in-post/public/2556999-1a2ad6a9a6690588.gif)
 
